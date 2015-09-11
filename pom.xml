@@ -11,4 +11,8 @@
     <description>HSPC/SMART Reference Implementation</description>
     <url>https://healthservices.atlassian.net/wiki/display/HSPC/Healthcare+Services+Platform+Consortium</url>
 
+    <modules>
+        <module>../reference-auth</module>
+        <module>../reference-api</module>
+    </modules>
 </project>
