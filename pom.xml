@@ -71,5 +71,6 @@
         <module>../reference-auth</module>
         <module>../reference-api</module>
         <module>../reference-apps</module>
+        <module>../reference-messaging</module>
     </modules>
 </project>
