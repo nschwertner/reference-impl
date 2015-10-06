@@ -7,7 +7,7 @@
     <version>0.9-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>Reference Apps</name>
+    <name>Reference Impl Parent</name>
     <description>HSPC/SMART Reference Implementation</description>
     <url>https://healthservices.atlassian.net/wiki/display/HSPC/Healthcare+Services+Platform+Consortium</url>
 
