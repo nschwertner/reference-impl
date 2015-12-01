@@ -72,5 +72,6 @@
         <module>../reference-api</module>
         <module>../reference-apps</module>
         <module>../reference-messaging</module>
+        <module>../hsp-appointment-view</module>
     </modules>
 </project>
