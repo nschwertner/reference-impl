@@ -87,6 +87,7 @@
                 <module>../hsp-appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-monitor</module>
+                <module>../patient-data-manager</module>
             </modules>
         </profile>
         <profile>
@@ -113,6 +114,7 @@
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
                 <module>../bilirubin-monitor</module>
+                <module>../patient-data-manager</module>
                 <module>../hsp-examples</module>
                 <module>../hsp-tools</module>
             </modules>
