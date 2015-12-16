@@ -103,6 +103,21 @@
             </modules>
         </profile>
         <profile>
+            <id>platform</id>
+            <modules>
+                <module>../hsp-java-client</module>
+                <module>../reference-auth</module>
+                <module>../reference-api</module>
+                <module>../reference-apps</module>
+                <module>../reference-messaging</module>
+                <module>../hsp-appointment-viewer</module>
+                <module>../bilirubin-app</module>
+                <module>../bilirubin-data</module>
+                <module>../bilirubin-monitor</module>
+                <module>../patient-data-manager</module>
+            </modules>
+        </profile>
+        <profile>
             <id>complete</id>
             <modules>
                 <module>../hsp-java-client</module>
