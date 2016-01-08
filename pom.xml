@@ -77,8 +77,7 @@
 		<!-- todo remove this java-client reference -->
                 <module>../hsp-java-client</module>
                 <module>../reference-auth</module>
-                <!--<module>../reference-api</module>-->
-                <module>../reference-api-new</module>
+                <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
             </modules>
@@ -110,8 +109,7 @@
             <modules>
                 <module>../hsp-java-client</module>
                 <module>../reference-auth</module>
-                <!--<module>../reference-api</module>-->
-                <module>../reference-api-new</module>
+                <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
                 <module>../hsp-appointment-viewer</module>
@@ -126,8 +124,7 @@
             <modules>
                 <module>../hsp-java-client</module>
                 <module>../reference-auth</module>
-                <!--<module>../reference-api</module>-->
-                <module>../reference-api-new</module>
+                <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
                 <module>../hsp-appointment-viewer</module>
