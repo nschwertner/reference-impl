@@ -24,5 +24,19 @@ For convenience, the entire reference platform can be built by building the Refe
 
     hspconsortium$ mvn clean install -p reference-impl/pom.xml
 
+### Platform Misc ###
+
+*Component port default assignment*
+
+Component | Default Port | Health
+----------| -----: | -------
+Reference-Auth | 40000 | http://localhost:40000/hsp-reference-auth/health
+Reference-Api  | 40010 | http://localhost:40010/hsp-reference-api/health
+Reference-Apps | 40020 | http://localhost:40020/hsp-reference-apps/health
+HSP-Bilirubin-Chart | 40030 | http://localhost:40030/hsp-bilirubin-chart/health
+HSP-Bilirubin-Monitor | 40040 | http://localhost:40040/hsp-bilirubin-monitor/health
+HSP-Appointment-Viewer | 40050 | http://localhost:40050/hsp-appointment-viewer/health
+
+
 ### Where to go from here ###
 https://healthservices.atlassian.net/wiki/display/HSPC/Healthcare+Services+Platform+Consortium
