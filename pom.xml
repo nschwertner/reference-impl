@@ -74,8 +74,7 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <modules>
-		<!-- todo remove this java-client reference -->
-                <module>../hsp-java-client</module>
+                <module>../java-client</module>
                 <module>../reference-auth</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
@@ -86,54 +85,57 @@
             <id>apps</id>
             <modules>
                 <module>../reference-apps</module>
-                <module>../hsp-appointment-viewer</module>
+                <module>../appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-monitor</module>
                 <module>../patient-data-manager</module>
+                <module>../sandbox-manager</module>
             </modules>
         </profile>
         <profile>
             <id>clients</id>
             <modules>
-                <module>../hsp-java-client</module>
+                <module>../java-client</module>
             </modules>
         </profile>
         <profile>
             <id>tools</id>
             <modules>
-                <module>../hsp-tools</module>
+                <module>../tools</module>
             </modules>
         </profile>
         <profile>
             <id>platform</id>
             <modules>
-                <module>../hsp-java-client</module>
+                <module>../java-client</module>
                 <module>../reference-auth</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
-                <module>../hsp-appointment-viewer</module>
+                <module>../appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
                 <module>../bilirubin-monitor</module>
                 <module>../patient-data-manager</module>
+                <module>../sandbox-manager</module>
             </modules>
         </profile>
         <profile>
             <id>complete</id>
             <modules>
-                <module>../hsp-java-client</module>
+                <module>../java-client</module>
                 <module>../reference-auth</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
-                <module>../hsp-appointment-viewer</module>
+                <module>../appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
                 <module>../bilirubin-monitor</module>
                 <module>../patient-data-manager</module>
-                <module>../hsp-examples</module>
-                <module>../hsp-tools</module>
+                <module>../sandbox-manager</module>
+                <module>../examples</module>
+                <module>../tools</module>
             </modules>
         </profile>
     </profiles>
