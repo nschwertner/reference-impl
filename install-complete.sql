@@ -23,10 +23,10 @@ source ../reference-apps/src/main/resources/db/openidconnect/mysql/pediatric-gro
 source ../bilirubin-app/src/main/resources/db/openidconnect/mysql/bilirubin-chart-client.sql;
 
 # install appointment-viewer
-source ../hsp-appointment-viewer/src/main/resources/db/openidconnect/mysql/appointment-viewer-client.sql;
+source ../appointment-viewer/src/main/resources/db/openidconnect/mysql/appointment-viewer-client.sql;
 
 # install examples
-source ../hsp-examples/src/main/resources/db/openidconnect/mysql/test-clients.sql;
+source ../examples/src/main/resources/db/openidconnect/mysql/test-clients.sql;
 
 # install patient-data-manager
 source ../patient-data-manager/src/main/resources/db/openidconnect/mysql/patient-data-manager-client.sql;
