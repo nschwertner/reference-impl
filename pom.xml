@@ -88,6 +88,7 @@
                 <module>../appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-monitor</module>
+                <module>../bilirubin-cds</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
             </modules>
@@ -116,6 +117,7 @@
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
                 <module>../bilirubin-monitor</module>
+                <module>../bilirubin-cds</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
             </modules>
@@ -132,6 +134,7 @@
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
                 <module>../bilirubin-monitor</module>
+                <module>../bilirubin-cds</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
                 <module>../examples</module>
