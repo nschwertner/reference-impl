@@ -20,6 +20,7 @@ source ../reference-apps/src/main/resources/db/openidconnect/mysql/fhir-starter-
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/pediatric-growth-chart-client.sql;
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/duke-pillbox-client.sql;
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/clindat-client.sql;
+source ../reference-apps/src/main/resources/db/openidconnect/mysql/meducation-client.sql;
 
 # install bilirubin-chart
 source ../bilirubin-app/src/main/resources/db/openidconnect/mysql/bilirubin-chart-client.sql;
