@@ -5,7 +5,7 @@ source ../reference-auth/webapp/src/main/resources/db/openidconnect/mysql/mysql_
 source ../reference-auth/webapp/src/main/resources/db/openidconnect/mysql/mysql_clients.sql;
 
 # install reference-api
-source ../reference-api/reference-api-base/src/main/resources/db/openidconnect/mysql/resource-server-client.sql;
+source ../reference-api/reference-api-mysql/src/main/resources/db/openidconnect/mysql/resource-server-client.sql;
 
 # install reference-messaging
 source ../reference-messaging/src/main/resources/db/openidconnect/mysql/messaging-client.sql;
@@ -18,6 +18,8 @@ source ../reference-apps/src/main/resources/db/openidconnect/mysql/disease-monog
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/fhir-demo-client.sql;
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/fhir-starter-client.sql;
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/pediatric-growth-chart-client.sql;
+source ../reference-apps/src/main/resources/db/openidconnect/mysql/duke-pillbox-client.sql;
+source ../reference-apps/src/main/resources/db/openidconnect/mysql/clindat-client.sql;
 
 # install bilirubin-chart
 source ../bilirubin-app/src/main/resources/db/openidconnect/mysql/bilirubin-chart-client.sql;
