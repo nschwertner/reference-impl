@@ -106,6 +106,13 @@
             </modules>
         </profile>
         <profile>
+            <id>bilirubin</id>
+            <modules>
+                <module>../bilirubin-cds</module>
+                <module>../bilirubin-app</module>
+            </modules>
+        </profile>
+        <profile>
             <id>platform</id>
             <modules>
                 <module>../java-client</module>
