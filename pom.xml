@@ -110,6 +110,7 @@
             <modules>
                 <module>../bilirubin</module>
                 <module>../bilirubin-app</module>
+                <module>../bilirubin-monitor</module>
             </modules>
         </profile>
         <profile>
