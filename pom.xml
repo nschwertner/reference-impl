@@ -131,6 +131,12 @@
             </modules>
         </profile>
         <profile>
+            <id>examples</id>
+            <modules>
+                <module>../examples</module>
+            </modules>
+        </profile>
+        <profile>
             <id>complete</id>
             <modules>
                 <module>../java-client</module>
