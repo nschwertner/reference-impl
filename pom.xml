@@ -137,6 +137,13 @@
             </modules>
         </profile>
         <profile>
+            <id>release</id>
+            <modules>
+                <module>../reference-release</module>
+                <module>../reference-release-spring-boot</module>
+            </modules>
+        </profile>
+        <profile>
             <id>complete</id>
             <modules>
                 <module>../java-client</module>
