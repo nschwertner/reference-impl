@@ -3,7 +3,7 @@
 
     <groupId>org.hspconsortium.reference</groupId>
     <artifactId>hspc-reference-impl-release</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Reference Impl Release</name>
@@ -38,7 +38,7 @@
         <url>https://travistcummings@bitbucket.org/hspconsortium/reference-impl</url>
         <connection>scm:git:https://travistcummings@bitbucket.org/hspconsortium/reference-impl.git</connection>
         <developerConnection>scm:git:https://travistcummings@bitbucket.org/hspconsortium/reference-impl.git</developerConnection>
-      <tag>hspc-reference-impl-release-0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
