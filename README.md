@@ -9,9 +9,22 @@ Clone the Reference Impl project and all other HSPC Sandbox projects to a single
     
 For example, I have a folder, hspconsortium, that looks like this:
     Traviss-MacBook-Pro:hspconsortium travistcummings$ ls
-    appointment-viewer		patient-data-manager		reference-release
-    bilirubin			reference-api			reference-release-spring-boot
-    bilirubin-app		reference-apps			sandbox-manager
-    bilirubin-data		reference-auth			tools
-    examples			reference-impl
-    java-client			reference-messaging
+    appointment-viewer
+    bilirubin
+    bilirubin-app
+    bilirubin-data
+    examples
+    java-client
+    patient-data-manager
+    reference-api
+    reference-apps
+    reference-auth
+    reference-impl
+    reference-messaging
+    reference-release
+    reference-release-spring-boot
+    sandbox-manager
+    tools
+
+### How do I get set up? ###
+Clone the Reference Impl project and all other HSPC Sandbox projects to a single folder.
