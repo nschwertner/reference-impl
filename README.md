@@ -9,7 +9,6 @@ Clone the Reference Impl project and all other HSPC Sandbox projects to a single
     
 For example, I have a folder, hspconsortium, that looks like this:
     hspconsortium> ls
-    Traviss-MacBook-Pro:hspconsortium travistcummings$ ls
     appointment-viewer
     bilirubin
     bilirubin-app
