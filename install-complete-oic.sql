@@ -21,6 +21,7 @@ source ../reference-apps/src/main/resources/db/openidconnect/mysql/pediatric-gro
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/duke-pillbox-client.sql;
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/clindat-client.sql;
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/meducation-client.sql;
+source ../reference-apps/src/main/resources/db/openidconnect/mysql/meducation-timeview-client.sql;
 
 # install bilirubin-chart
 source ../bilirubin-app/src/main/resources/db/openidconnect/mysql/bilirubin-chart-client.sql;
