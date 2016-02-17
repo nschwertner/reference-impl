@@ -11,8 +11,6 @@ For example, I have a folder, hspconsortium, that looks like this:
 
     hspconsortium$ ls
     appointment-viewer
-
-### How do I get set up? ###
     bilirubin
     bilirubin-app
     bilirubin-data
@@ -28,6 +26,8 @@ For example, I have a folder, hspconsortium, that looks like this:
     reference-release-spring-boot
     sandbox-manager
     tools
+
+### How do I get set up? ###
 
 ### How do I get set up? ###
 Clone the Reference Impl project and all other HSPC Sandbox projects to a single folder.
