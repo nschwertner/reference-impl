@@ -8,6 +8,10 @@ The Reference Impl is a convenience project for working with all of the HSPC San
 Clone the Reference Impl project and all other HSPC Sandbox projects to a single folder.
     
 For example, I have a folder, hspconsortium, that looks like this:
+    hspconsortium> ls
+
+### hi ###
+
     Traviss-MacBook-Pro:hspconsortium travistcummings$ ls
     appointment-viewer
     bilirubin
