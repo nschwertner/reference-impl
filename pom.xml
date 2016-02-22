@@ -85,6 +85,7 @@
             <id>apps</id>
             <modules>
                 <module>../reference-apps</module>
+                <module>../appointments</module>
                 <module>../appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin</module>
@@ -119,6 +120,7 @@
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
+                <module>../appointments</module>
                 <module>../appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
@@ -148,6 +150,7 @@
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
+                <module>../appointments</module>
                 <module>../appointment-viewer</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
