@@ -26,8 +26,8 @@ source ../reference-apps/src/main/resources/db/openidconnect/mysql/meducation-ti
 # install bilirubin-chart
 source ../bilirubin-app/src/main/resources/db/openidconnect/mysql/bilirubin-chart-client.sql;
 
-# install appointment-viewer
-source ../appointment-viewer/src/main/resources/db/openidconnect/mysql/appointment-viewer-client.sql;
+# install appointments
+source ../appointments/src/main/resources/db/openidconnect/mysql/appointments-client.sql;
 
 # install examples
 source ../examples/src/main/resources/db/openidconnect/mysql/test-clients.sql;
