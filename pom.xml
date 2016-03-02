@@ -25,20 +25,11 @@
         </license>
     </licenses>
 
-    <!-- SSH configuration -->
-    <!--
-        <scm>
-            <connection>scm:git:ssh://git@bitbucket.org/travistcummings/hspconsortium/reference-impl.git</connection>
-            <developerConnection>scm:git:ssh://git@bitbucket.org/travistcummings/hspconsortium/reference-impl.git</developerConnection>
-            <url>https://bitbucket.org/travistcummings/hspconsortium/reference-impl.git</url>
-        </scm>
-    -->
-
-    <!-- HTTPS configuration -->
     <scm>
-        <url>https://travistcummings@bitbucket.org/hspconsortium/reference-impl</url>
-        <connection>scm:git:https://travistcummings@bitbucket.org/hspconsortium/reference-impl.git</connection>
-        <developerConnection>scm:git:https://travistcummings@bitbucket.org/hspconsortium/reference-impl.git</developerConnection>
+        <connection>scm:git:ssh://git@bitbucket.org/hspconsortium/reference-impl.git</connection>
+        <developerConnection>scm:git:ssh://git@bitbucket.org/hspconsortium/reference-impl.git</developerConnection>
+        <url>https://bitbucket.org/hspconsortium/reference-impl.git</url>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
