@@ -78,8 +78,6 @@
                 <module>../reference-apps</module>
                 <module>../appointments</module>
                 <module>../appointment-viewer</module>
-                <module>../bilirubin-app</module>
-                <module>../bilirubin</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
             </modules>
@@ -99,8 +97,11 @@
         <profile>
             <id>bilirubin</id>
             <modules>
-                <module>../bilirubin</module>
+                <module>../bilirubin-kernicterusriskcalculator</module>
+                <module>../bilirubin-cdshooksadapter</module>
+                <module>../bilirubin-monitor2</module>
                 <module>../bilirubin-app</module>
+                <module>../bilirubin-data</module>
             </modules>
         </profile>
         <profile>
@@ -113,9 +114,6 @@
                 <module>../reference-messaging</module>
                 <module>../appointments</module>
                 <module>../appointment-viewer</module>
-                <module>../bilirubin-app</module>
-                <module>../bilirubin-data</module>
-                <module>../bilirubin</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
             </modules>
@@ -143,9 +141,11 @@
                 <module>../reference-messaging</module>
                 <module>../appointments</module>
                 <module>../appointment-viewer</module>
+                <module>../bilirubin-kernicterusriskcalculator</module>
+                <module>../bilirubin-cdshooksadapter</module>
+                <module>../bilirubin-monitor2</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
-                <module>../bilirubin</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
                 <module>../examples</module>
