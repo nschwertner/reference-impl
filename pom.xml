@@ -99,7 +99,7 @@
             <modules>
                 <module>../bilirubin-kernicterusriskcalculator</module>
                 <module>../bilirubin-cdshooksadapter</module>
-                <module>../bilirubin-monitor2</module>
+                <module>../bilirubin-monitor</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
             </modules>
@@ -127,8 +127,9 @@
         <profile>
             <id>release</id>
             <modules>
-                <module>../reference-release</module>
-                <module>../reference-release-spring-boot</module>
+                <module>../release</module>
+                <module>../release-spring-boot</module>
+                <module>../release-spring-boot-dependencies</module>
             </modules>
         </profile>
         <profile>
@@ -143,7 +144,7 @@
                 <module>../appointment-viewer</module>
                 <module>../bilirubin-kernicterusriskcalculator</module>
                 <module>../bilirubin-cdshooksadapter</module>
-                <module>../bilirubin-monitor2</module>
+                <module>../bilirubin-monitor</module>
                 <module>../bilirubin-app</module>
                 <module>../bilirubin-data</module>
                 <module>../patient-data-manager</module>
