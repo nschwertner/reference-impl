@@ -66,7 +66,11 @@
             </activation>
             <modules>
                 <module>../java-client</module>
-                <module>../reference-auth</module>
+                <!--<module>../reference-auth</module>-->
+                <!--<module>../reference-auth-smart</module>-->
+                <module>../reference-auth-security</module>
+                <module>../reference-auth-webapp</module>
+                <module>../reference-auth-ldap-webapp</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
@@ -108,7 +112,11 @@
             <id>platform</id>
             <modules>
                 <module>../java-client</module>
-                <module>../reference-auth</module>
+                <!--<module>../reference-auth</module>-->
+                <!--<module>../reference-auth-smart</module>-->
+                <module>../reference-auth-security</module>
+                <module>../reference-auth-webapp</module>
+                <module>../reference-auth-ldap-webapp</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
@@ -136,7 +144,11 @@
             <id>complete</id>
             <modules>
                 <module>../java-client</module>
-                <module>../reference-auth</module>
+                <!--<module>../reference-auth</module>-->
+                <!--<module>../reference-auth-smart</module>-->
+                <module>../reference-auth-security</module>
+                <module>../reference-auth-webapp</module>
+                <module>../reference-auth-ldap-webapp</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
