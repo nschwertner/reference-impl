@@ -69,8 +69,8 @@
                 <!--<module>../reference-auth</module>-->
                 <!--<module>../reference-auth-smart</module>-->
                 <module>../reference-auth-security</module>
-                <module>../reference-auth-webapp</module>
-                <module>../reference-auth-ldap-webapp</module>
+                <module>../reference-auth-server-webapp</module>
+                <module>../reference-auth-server-ldap-webapp</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
@@ -115,8 +115,8 @@
                 <!--<module>../reference-auth</module>-->
                 <!--<module>../reference-auth-smart</module>-->
                 <module>../reference-auth-security</module>
-                <module>../reference-auth-webapp</module>
-                <module>../reference-auth-ldap-webapp</module>
+                <module>../reference-auth-server-webapp</module>
+                <module>../reference-auth-server-ldap-webapp</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
@@ -147,8 +147,8 @@
                 <!--<module>../reference-auth</module>-->
                 <!--<module>../reference-auth-smart</module>-->
                 <module>../reference-auth-security</module>
-                <module>../reference-auth-webapp</module>
-                <module>../reference-auth-ldap-webapp</module>
+                <module>../reference-auth-server-webapp</module>
+                <module>../reference-auth-server-ldap-webapp</module>
                 <module>../reference-api</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
