@@ -1,8 +1,8 @@
 # install reference-auth
-source ../reference-auth/webapp/src/main/resources/db/openidconnect/mysql/mysql_database_tables.sql;
-source ../reference-auth/webapp/src/main/resources/db/openidconnect/mysql/mysql_users.sql;
-source ../reference-auth/webapp/src/main/resources/db/openidconnect/mysql/mysql_system_scopes.sql;
-source ../reference-auth/webapp/src/main/resources/db/openidconnect/mysql/mysql_clients.sql;
+source ../reference-auth-server-webapp/src/main/resources/db/openidconnect/mysql/mysql_database_tables.sql;
+source ../reference-auth-server-webapp/src/main/resources/db/openidconnect/mysql/mysql_users.sql;
+source ../reference-auth-server-webapp/src/main/resources/db/openidconnect/mysql/mysql_system_scopes.sql;
+source ../reference-auth-server-webapp/src/main/resources/db/openidconnect/mysql/mysql_clients.sql;
 
 # install reference-api
 source ../reference-api/reference-api-mysql/src/main/resources/db/openidconnect/mysql/resource-server-client.sql;
