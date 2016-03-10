@@ -69,7 +69,11 @@
                 <module>../reference-auth-security</module>
                 <module>../reference-auth-server-webapp</module>
                 <module>../reference-auth-server-ldap-webapp</module>
-                <module>../reference-api</module>
+                <module>../reference-api-mysql</module>
+                <module>../reference-api-oauth2</module>
+                <module>../reference-api-fhir</module>
+                <module>../reference-api-smart-support</module>
+                <module>../reference-api-webapp</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
             </modules>
@@ -79,7 +83,6 @@
             <modules>
                 <module>../reference-apps</module>
                 <module>../appointments</module>
-                <module>../appointment-viewer</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
             </modules>
@@ -113,11 +116,13 @@
                 <module>../reference-auth-security</module>
                 <module>../reference-auth-server-webapp</module>
                 <module>../reference-auth-server-ldap-webapp</module>
-                <module>../reference-api</module>
+                <module>../reference-api-mysql</module>
+                <module>../reference-api-oauth2</module>
+                <module>../reference-api-fhir</module>
+                <module>../reference-api-smart-support</module>
+                <module>../reference-api-webapp</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
-                <module>../appointments</module>
-                <module>../appointment-viewer</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
             </modules>
@@ -143,11 +148,14 @@
                 <module>../reference-auth-security</module>
                 <module>../reference-auth-server-webapp</module>
                 <module>../reference-auth-server-ldap-webapp</module>
-                <module>../reference-api</module>
+                <module>../reference-api-mysql</module>
+                <module>../reference-api-oauth2</module>
+                <module>../reference-api-fhir</module>
+                <module>../reference-api-smart-support</module>
+                <module>../reference-api-webapp</module>
                 <module>../reference-apps</module>
                 <module>../reference-messaging</module>
                 <module>../appointments</module>
-                <module>../appointment-viewer</module>
                 <module>../bilirubin-kernicterusriskcalculator</module>
                 <module>../bilirubin-cdshooksadapter</module>
                 <module>../bilirubin-monitor</module>
