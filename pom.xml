@@ -79,6 +79,10 @@
             </modules>
         </profile>
         <profile>
+            <id>none</id>
+            <modules/>
+        </profile>
+        <profile>
             <id>apps</id>
             <modules>
                 <module>../reference-apps</module>
