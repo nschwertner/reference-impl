@@ -8,8 +8,23 @@ cd ../bilirubin-app
 git checkout develop
 git pull
 
+echo "Updating bilirubin-cdshooksadapter..."
+cd ../bilirubin-cdshooksadapter
+git checkout develop
+git pull
+
+echo "Updating bilirubin-kernicterusriskcalculator..."
+cd ../bilirubin-kernicterusriskcalculator
+git checkout develop
+git pull
+
 echo "Updating bilirubin-data..."
 cd ../bilirubin-data
+git checkout develop
+git pull
+
+echo "Updating bilirubin-monitor..."
+cd ../bilirubin-monitor
 git checkout develop
 git pull
 
@@ -28,8 +43,28 @@ cd ../patient-data-manager
 git checkout develop
 git pull
 
-echo "Updating reference-api..."
-cd ../reference-api
+echo "Updating reference-api-fhir..."
+cd ../reference-api-fhir
+git checkout develop
+git pull
+
+echo "Updating reference-api-mysql..."
+cd ../reference-api-mysql
+git checkout develop
+git pull
+
+echo "Updating reference-api-oauth2..."
+cd ../reference-api-oauth2
+git checkout develop
+git pull
+
+echo "Updating reference-api-smart-support..."
+cd ../reference-api-smart-support
+git checkout develop
+git pull
+
+echo "Updating reference-api-webapp..."
+cd ../reference-api-webapp
 git checkout develop
 git pull
 
@@ -38,8 +73,18 @@ cd ../reference-apps
 git checkout develop
 git pull
 
-echo "Updating reference-auth..."
-cd ../reference-auth
+echo "Updating reference-auth-security..."
+cd ../reference-auth-security
+git checkout develop
+git pull
+
+echo "Updating reference-auth-server-ldap-webapp..."
+cd ../reference-auth-server-ldap-webapp
+git checkout develop
+git pull
+
+echo "Updating reference-auth-server-webapp..."
+cd ../reference-auth-server-webapp
 git checkout develop
 git pull
 
