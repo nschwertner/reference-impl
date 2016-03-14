@@ -148,6 +148,9 @@
         <profile>
             <id>complete</id>
             <modules>
+                <module>../release</module>
+                <module>../release-spring-boot</module>
+                <module>../release-spring-boot-dependencies</module>
                 <module>../java-client</module>
                 <module>../reference-auth-security</module>
                 <module>../reference-auth-server-webapp</module>
