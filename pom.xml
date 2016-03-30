@@ -83,6 +83,14 @@
             <modules/>
         </profile>
         <profile>
+            <id>auth</id>
+            <modules>
+                <module>../reference-auth-security</module>
+                <module>../reference-auth-server-webapp</module>
+                <module>../reference-auth-server-ldap-webapp</module>
+            </modules>
+        </profile>
+        <profile>
             <id>apps</id>
             <modules>
                 <module>../reference-apps</module>
