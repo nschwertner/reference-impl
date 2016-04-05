@@ -91,6 +91,16 @@
             </modules>
         </profile>
         <profile>
+            <id>api</id>
+            <modules>
+                <module>../reference-api-mysql</module>
+                <module>../reference-api-fhir</module>
+                <module>../reference-api-oauth2</module>
+                <module>../reference-api-smart-support</module>
+                <module>../reference-api-webapp</module>
+            </modules>
+        </profile>
+        <profile>
             <id>apps</id>
             <modules>
                 <module>../reference-apps</module>
