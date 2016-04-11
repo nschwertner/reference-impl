@@ -5,7 +5,7 @@ source ../reference-auth-server-webapp/src/main/resources/db/openidconnect/mysql
 source ../reference-auth-server-webapp/src/main/resources/db/openidconnect/mysql/mysql_clients.sql;
 
 # install reference-api
-source ../reference-api/reference-api-mysql/src/main/resources/db/openidconnect/mysql/resource-server-client.sql;
+source ../reference-api-mysql/src/main/resources/db/openidconnect/mysql/resource-server-client.sql;
 
 # install reference-messaging
 source ../reference-messaging/src/main/resources/db/openidconnect/mysql/messaging-client.sql;
