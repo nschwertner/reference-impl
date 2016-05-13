@@ -3,8 +3,8 @@ cd ../appointments
 git checkout develop
 git pull
 
-echo "Updating bilirubin-app..."
-cd ../bilirubin-app
+echo "Updating bilirubin-risk-chart..."
+cd ../bilirubin-risk-chart
 git checkout develop
 git pull
 

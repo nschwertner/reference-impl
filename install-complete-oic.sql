@@ -25,7 +25,7 @@ source ../reference-apps/src/main/resources/db/openidconnect/mysql/meducation-ti
 source ../reference-apps/src/main/resources/db/openidconnect/mysql/premier-aki-staging-client.sql;
 
 # install bilirubin-chart
-source ../bilirubin-app/src/main/resources/db/openidconnect/mysql/bilirubin-chart-client.sql;
+source ../bilirubin-risk-chart/src/main/resources/db/openidconnect/mysql/bilirubin-chart-client.sql;
 
 # install appointments
 source ../appointments/src/main/resources/db/openidconnect/mysql/appointments-client.sql;

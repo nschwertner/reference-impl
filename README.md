@@ -12,7 +12,7 @@ For example, I have a folder, hspconsortium, that looks like this:
     hspconsortium$ ls
     appointment-viewer
     bilirubin
-    bilirubin-app
+    bilirubin-risk-chart
     bilirubin-data
     examples
     java-client
