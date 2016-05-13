@@ -129,7 +129,7 @@
                 <module>../bilirubin-kernicterusriskcalculator</module>
                 <module>../bilirubin-cdshooksadapter</module>
                 <module>../bilirubin-monitor</module>
-                <module>../bilirubin-app</module>
+                <module>../bilirubin-risk-chart</module>
                 <module>../bilirubin-data</module>
             </modules>
         </profile>
@@ -186,7 +186,7 @@
                 <module>../bilirubin-kernicterusriskcalculator</module>
                 <module>../bilirubin-cdshooksadapter</module>
                 <module>../bilirubin-monitor</module>
-                <module>../bilirubin-app</module>
+                <module>../bilirubin-risk-chart</module>
                 <module>../bilirubin-data</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
