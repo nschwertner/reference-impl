@@ -107,7 +107,7 @@
                 <module>../appointments</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
-                <module>../app-gallery</module>
+                <module>../gallery</module>
                 <module>../developers</module>
             </modules>
         </profile>
@@ -190,7 +190,7 @@
                 <module>../bilirubin-data</module>
                 <module>../patient-data-manager</module>
                 <module>../sandbox-manager</module>
-                <module>../app-gallery</module>
+                <module>../gallery</module>
                 <module>../developers</module>
                 <module>../examples</module>
                 <module>../tools</module>
